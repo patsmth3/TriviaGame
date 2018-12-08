@@ -35,7 +35,7 @@ var questions = [{
   correctAnswer: "George Rogers",
 }, {
   question: "Who was the first Saints quarterback to pass for over 400 yards in a NFL season?",
-  answers: ["Bobby Herbert", "Brew Brees", "Jim everett", "Archie Manning"],
+  answers: ["Bobby Herbert", "Drew Brees", "Jim everett", "Archie Manning"],
   correctAnswer: "Drew Brees",
 }, {
   question: "Over the course of 9 NFL seasons, Saints quarterback Drew Brees has thrown 316 touchdown passes. After he joined NO in 2006 who was the Saint player that caught a touchdown pass from him?",
@@ -47,7 +47,7 @@ var questions = [{
   correctAnswer: "Chicago, 1983",
 }, {
   question: "The Saints began play in the Louisiana Super Dome in 1975. Who was the first opponent they defeated at the Super Dome?",
-  answers: ["Tampa Bay", "Denver", "Pittsburgh", "Breen Bay", "Atlanta"],
+  answers: ["Tampa Bay", "Denver", "Pittsburgh", "Green Bay", "Atlanta"],
   correctAnswer: "Green Bay",
 }, {
   question: "Back in the day, we didn't have many players that made the Pro Bowl but we had a few.  Who was the first Saint player to make the Pro Bowl",

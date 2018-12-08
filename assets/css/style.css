@@ -7,7 +7,7 @@ body{
   background-repeat: no-repeat;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 10px;
-  line-height: 125%;
+  line-height: 100%;
   background-size: 100% 113%;
   text-align: center;
 
@@ -17,7 +17,7 @@ body{
   margin:2.5% auto;
   background-color: rgba(255, 217, 0, 0.329);
   width:960px;
-  height: 75%;
+  height: 70%;
   box-sizing: border-box;
 }
 
@@ -36,7 +36,7 @@ button{
 }
 
 img{
-  height:200px;
+  height:150px;
 }
 
 h1{
@@ -50,6 +50,8 @@ h1{
 h2{
   font-size: 35px;
   margin-bottom: 25px;
+  margin-top: 55px;
+  line-height: 90%;
 }
 
 h3{
